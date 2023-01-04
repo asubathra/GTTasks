@@ -1,0 +1,20 @@
+package org.sample;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+
+public class Demo {
+	public static void main(String[] args) {
+		System.setProperty("webdriver.edge.driver","D:\\SubathraSpace\\eclipse-workspace\\WebTable\\driver\\msedgedriver.exe");
+		WebDriver dr = new EdgeDriver();
+		dr.manage().window().maximize();
+		dr.get("http://www.w3schools.com/html/html-tables.asp");
+
+		WebElement table = dr.findElement(By.xpath("//table[@id='customers']"));
+		String text = table.getText();
+		System.out.println(text);
+		
+	}
+}

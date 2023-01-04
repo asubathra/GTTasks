@@ -1,0 +1,20 @@
+package org.sample;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Demo {
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver","D:\\SubathraSpace\\eclipse-workspace\\WebTable\\driver\\chromedriver.exe");
+		WebDriver dr = new ChromeDriver();
+		dr.manage().window().maximize();
+		dr.get("https://www.w3schools.com/html/html_tables.asp");
+
+		WebElement table = dr.findElement(By.xpath("//table[@id='customers']"));
+		String text = table.getText();
+		System.out.println(text);
+		
+	}
+}

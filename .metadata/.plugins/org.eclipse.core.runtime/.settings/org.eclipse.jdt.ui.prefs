@@ -1,0 +1,15 @@
+content_assist_favorite_static_members=org.testng.Assert.*
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.emp.EmployeeRunner"><rhs name\="org.emp.EmployeeRunner"/></lhs><lhs name\="org.emp1.Employee"><rhs name\="org.emp1.Employee"/></lhs><lhs name\="org.sample.EmployeeCode"><rhs name\="org.sample.EmployeeCode"/></lhs><lhs name\="org.empsample.EmployeeCode"><rhs name\="org.empsample.EmployeeCode"/></lhs><lhs name\="org.phone.PhoneInfo"><rhs name\="org.phone.PhoneInfo"/></lhs><lhs name\="org.phone.InternalStorage"><rhs name\="org.phone.InternalStorage"/></lhs><lhs name\="org.phone.ExternalStorage"><rhs name\="org.phone.ExternalStorage"/></lhs><lhs name\="org.lang.StateDetails"><rhs name\="org.lang.StateDetails"/></lhs><lhs name\="org.threewheeler.Threewheeler"><rhs name\="org.threewheeler.Threewheeler"/></lhs><lhs name\="org.fourwheeler.FourWheeler"><rhs name\="org.fourwheeler.FourWheeler"/></lhs><lhs name\="org.transport.Transport"><rhs name\="org.transport.Transport"/></lhs><lhs name\="org.road.Road"><rhs name\="org.road.Road"/></lhs><lhs name\="org.water.Water"><rhs name\="org.water.Water"/></lhs><lhs name\="org.network.MobileData"><rhs name\="org.network.MobileData"/></lhs><lhs name\="org.network.Wireless"><rhs name\="org.network.Wireless"/></lhs><lhs name\="org.company.CompanyInfo"><rhs name\="org.company.CompanyInfo"/></lhs><lhs name\="org.bank.BankInfo"><rhs name\="org.bank.BankInfo"/></lhs><lhs name\="org.openqa.selenium.By"><rhs name\="org.openqa.selenium.By$ByClassName"/></lhs><lhs name\="org.openqa.selenium.SearchContext"><rhs name\="org.openqa.selenium.chrome.ChromeDriver"/></lhs><lhs name\="org.openqa.selenium.WebDriver"><rhs name\="org.openqa.selenium.chrome.ChromeDriver"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="org.openqa.selenium.Keys"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.LinkedHashMap"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+editor_folding_enabled=false
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

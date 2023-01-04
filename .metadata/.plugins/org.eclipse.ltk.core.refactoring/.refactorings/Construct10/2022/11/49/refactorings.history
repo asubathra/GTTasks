@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Vote.java&apos; to &apos;ConStruct/src/org.sample&apos;&#x0D;&#x0A;- Original project: &apos;Construct10&apos;&#x0D;&#x0A;- Destination element: &apos;ConStruct/src/org.sample&apos;&#x0D;&#x0A;- Original element: &apos;org.sample.Vote.java&apos;" description="Copy compilation unit" destination="=ConStruct/src&lt;org.sample" element1="/src&lt;org.sample{Vote.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1669626600491" units="1" version="1.0"/>
+</session>

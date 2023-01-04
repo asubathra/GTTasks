@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;org.sample&apos; to &apos;ConStruct/src/org.sample&apos;&#x0D;&#x0A;- Original project: &apos;Comstruct21&apos;&#x0D;&#x0A;- Destination element: &apos;ConStruct/src/org.sample&apos;&#x0D;&#x0A;- Original element: &apos;Comstruct21/src/org.sample&apos;" description="Copy package" destination="=ConStruct/src&lt;org.sample" element1="/src&lt;org.sample" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1669626551365" version="1.0"/>
+</session>

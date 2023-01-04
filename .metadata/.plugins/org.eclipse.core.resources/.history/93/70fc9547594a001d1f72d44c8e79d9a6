@@ -1,0 +1,27 @@
+package org.test;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+public class SuperClass extends Sample{
+
+	public static void main(String[] args) throws InterruptedException {
+		browserLaunch();
+		
+		launchUrl("https://www.instagram.com");
+		getThePageTitle();
+		
+		getTheUrl();
+		Thread.sleep(1000);
+		WebElement email = driver.findElement(By.xpath("//input[@type='text']"));
+		passtxt(email,"selva@gmail");
+		
+		WebElement pass = driver.findElement(By.xpath("//input[@type='password']"));
+		passtxt(pass,"56789089");
+		
+		WebElement loginBtn = driver.findElement(By.xpath("//div[text()='Log In']"));
+		passtxt(pass,"56789089");
+	
+	
+	}
+} 

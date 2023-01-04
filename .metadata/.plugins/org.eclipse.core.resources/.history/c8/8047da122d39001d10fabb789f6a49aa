@@ -1,0 +1,30 @@
+package org.test;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+
+
+public class Task {
+public static void main(String[] args){
+	
+	System.setProperty("webdriver.edge.driver","D:\\SubathraSpace\\eclipse-workspace\\Dom3\\Driver\\msedgedriver.exe");
+	
+	WebDriver dr = new EdgeDriver();
+	dr.manage().window().maximize();
+	dr.get(" https://www.snapdeal.com/");
+	
+	dr.findElement(By.xpath("//span[@class='accountUserName col-xs-12 reset-padding']")).click();
+	dr.findElement(By.xpath("//span[@class='newUserRegister']")).click();
+	dr.findElement(By.xpath("//class=\"btn col-xs-24 btn-large btn-skyblue continueBtn marT20 marB30\"")).sendKeys("Narenkrish6@gmail.com");
+	
+	
+	//dr.findElement(By.xpath("//input[@type='password']")).sendKeys("asd456");
+	
+}
+	
+}
+
+

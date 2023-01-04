@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hello1.java&apos; to &apos;Comstruct21/src/org.sample&apos;&#x0D;&#x0A;- Original project: &apos;ConStruct1&apos;&#x0D;&#x0A;- Destination element: &apos;Comstruct21/src/org.sample&apos;&#x0D;&#x0A;- Original element: &apos;org.test.Hello1.java&apos;" description="Copy compilation unit" destination="=Comstruct21/src&lt;org.sample" element1="/src&lt;org.test{Hello1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1669626531203" units="1" version="1.0"/>
+</session>

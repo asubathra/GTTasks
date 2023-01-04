@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;org.language.languageInfo.java&apos; to &apos;LanguageInfo.java&apos;&#x0D;&#x0A;- Original project: &apos;LanguageDetails1&apos;&#x0D;&#x0A;- Original element: &apos;org.language.languageInfo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;org.language.LanguageInfo.java&apos;" description="Rename compilation unit &apos;languageInfo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;org.language{languageInfo.java" name="LanguageInfo.java" references="false" stamp="1659905281892" version="1.0"/>
+</session>

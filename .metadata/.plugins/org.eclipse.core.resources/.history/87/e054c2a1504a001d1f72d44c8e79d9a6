@@ -1,0 +1,13 @@
+package org.test;
+
+public class SuperClass extends Sample{
+
+	public static void main(String[] args) {
+		browserLaunch();
+		
+		launchUrl("https://www.gmail.com");
+		getThePageTitle();
+		
+		
+	}
+} 

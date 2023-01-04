@@ -1,0 +1,17 @@
+package org.sample;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+
+public class Demo {
+	public static void main(String[] args) {
+		System.setProperty("webdriver.edge.driver","D:\\SubathraSpace\\eclipse-workspace\\WebTable\\driver\\msedgedriver.exe");
+		WebDriver dr = new EdgeDriver();
+		dr.manage().window().maximize();
+		dr.get("http://www.w3schools.com/html/html-tables.asp");
+
+		
+		
+		
+	}
+}
